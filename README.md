@@ -2,7 +2,7 @@
 
 <h3>Machine Learning Minor Project</h3>
 
-<h6>Problem Statement</h6>
+<h5>Problem Statement</h5>
 
 A company that sells some of the product, and you want to know how well the selling performance of the product. We have the data that we can analyze, but what kind of analysis can we do? Well, we can segment customers based on their buying behavior in the market. Our task is to classify the data into the possible types of customers which the retailer can encounter.
 
